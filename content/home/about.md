@@ -9,6 +9,6 @@ title: Biography
 subtitle: A little more about me.
 design:
   background:
-    color: "#d1cfcf"
+    color: "#01af4d"
     text_color_light: false
 ---
