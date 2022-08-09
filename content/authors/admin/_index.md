@@ -1,6 +1,6 @@
 ---
 title: Masum Akando
-role: Entrepreneur, Student, Software Engineer, TEDx speaker
+role: Dreamer | Entrepreneur | Software Engineer | TEDx speaker
 avatar_filename: avatar.jpg.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -14,16 +14,23 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.twitter.com/masum_akando
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/masumakando
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://bd.linkedin.com/in/masumakando
+  - display:
+      header: false
+    icon_pack: fab
+    icon: facebook
+    link: https://www.facebook.com/masumorfae.shanto
 organizations:
   - name: Daffodil International University
     url: https://daffodilvarsity.edu.bd/
