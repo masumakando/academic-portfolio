@@ -21,6 +21,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/masumakando
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://bd.linkedin.com/in/masumakando
