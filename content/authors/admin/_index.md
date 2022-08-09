@@ -1,6 +1,6 @@
 ---
 title: Masum Akando
-role: Entrepreneur, Student, Software Engineer, TEDx speaker
+role: Dreamer, Entrepreneur, Software Engineer, TEDx speaker, Knowledge Seeker
 avatar_filename: avatar.jpg.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
