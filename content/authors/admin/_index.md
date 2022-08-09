@@ -17,9 +17,6 @@ social:
     link: https://www.twitter.com/masum_akando
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=
   - icon: github
     icon_pack: fab
     link: https://github.com/masumakando
