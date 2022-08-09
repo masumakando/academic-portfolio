@@ -35,6 +35,11 @@ social:
     icon_pack: fab
     icon: facebook
     link: https://www.facebook.com/masumorfae.shanto
+  - display:
+      header: false
+    link: https://www.instagram.com/masum_akando_/
+    icon_pack: fab
+    icon: instagram
 organizations:
   - name: Daffodil International University
     url: https://daffodilvarsity.edu.bd/
