@@ -1,11 +1,11 @@
 ---
 widget: about
-active: false
+active: true
 author: admin
 widget_id: Bio
 headless: true
 weight: 20
-title: Biography
+title: Bio
 subtitle: A little more about me.
 design:
   background:
