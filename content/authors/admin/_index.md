@@ -42,7 +42,7 @@ education:
   courses:
     - course: BSc in Software Engineering
       institution: Daffodil International University
-      year: 2021
+      year: 2022
 email: ""
 superuser: true
 highlight_name: true
