@@ -30,8 +30,6 @@ content:
   address:
     street: Ashulia, Savar
     city: Dhaka
-    country: Bangladesh
-    country_code: BD
   appointment_url: 'https://calendly.com/masum_akando'
   contact_links:
     - icon: twitter
