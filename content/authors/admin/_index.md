@@ -2,8 +2,7 @@
 title: Masum Akando
 role: Dreamer | Entrepreneur | Software Engineer | TEDx speaker
 avatar_filename: avatar.jpg.jpg
-bio: My research interests include distributed robotics,  mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -49,6 +48,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+I recently graduated from ***Software Engineering*** at **Daffodil International University**. Im currently working in Dhaka, Bangladesh as a CEO at **[Anun](https://www.anun.xyz)**.
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
