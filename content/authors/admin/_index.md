@@ -2,8 +2,8 @@
 title: Masum Akando
 role: Dreamer | Entrepreneur | Software Engineer | TEDx speaker
 avatar_filename: avatar.jpg.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I recently graduated from Software Engineering at Daffodil International
+  University. I am currently working in Dhaka, Bangladesh as a CEO at Anun
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -15,9 +15,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://www.twitter.com/masum_akando
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=
+    display:
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/masumakando
@@ -26,25 +25,26 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://bd.linkedin.com/in/masumakando
+    display:
+      header: true
   - display:
       header: false
     icon_pack: fab
     icon: facebook
     link: https://www.facebook.com/masumorfae.shanto
+  - display:
+      header: false
+    link: https://www.instagram.com/masum_akando_/
+    icon_pack: fab
+    icon: instagram
 organizations:
   - name: Daffodil International University
     url: https://daffodilvarsity.edu.bd/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Software Engineering
+      institution: Daffodil International University
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
