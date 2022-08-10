@@ -2,8 +2,8 @@
 title: Masum Akando
 role: Dreamer | Entrepreneur | Software Engineer | TEDx speaker
 avatar_filename: avatar.jpg.jpg
-bio: I recently graduated from Software Engineering at Daffodil International
-  University. I am currently working in Dhaka, Bangladesh as a CEO at Anun
+bio: My research interests include distributed robotics,  mobile computing and
+  programmable matter.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
