@@ -16,7 +16,7 @@ feature:
     icon_pack: fas
     name: Technologies
   - description: Greek, Georgian, English, German, Russian
-    icon: camera-retro
+    icon: fa-language
     icon_pack: fas
     name: Languages
 design:
