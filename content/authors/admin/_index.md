@@ -2,7 +2,7 @@
 title: Masum Akando
 role: Dreamer | Entrepreneur | Software Engineer | TEDx speaker
 avatar_filename: avatar.jpg.jpg
-bio: Lorem ipsum dolor sit ame
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -27,12 +27,12 @@ social:
     display:
       header: true
   - display:
-      header: false
+      header: true
     icon_pack: fab
     icon: facebook
     link: https://www.facebook.com/masumorfae.shanto
   - display:
-      header: false
+      header: true
     link: https://www.instagram.com/masum_akando_/
     icon_pack: fab
     icon: instagram
@@ -45,7 +45,7 @@ education:
       institution: Daffodil International University
       year: ""
 email: ""
-superuser: true
+superuser: false
 highlight_name: true
 ---
 I recently graduated from ***Software Engineering*** at **Daffodil International University**. Im currently working in Dhaka, Bangladesh as a CEO at **[Anun](https://www.anun.xyz)**.
