@@ -1,9 +1,11 @@
 ---
 widget: featurette
+widget_id: My Skills
 headless: true
 weight: 30
 title: My Skills
 subtitle: null
+active: true
 feature:
   - description: 90%
     icon: r-project
@@ -17,5 +19,7 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
-widget_id: My Skills
+design:
+  columns: "2"
 ---
+vbbbbbbbbbbbbbbbbbbbbbbb hfffffffffffffffffffffffffffff
