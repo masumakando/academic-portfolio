@@ -16,7 +16,7 @@ feature:
     icon_pack: fas
     name: Technologies
   - description: Greek, Georgian, English, German, Russian
-    icon: fa-language
+    icon: fa-regular fa-language
     icon_pack: fas
     name: Languages
 design:
