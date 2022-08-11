@@ -7,15 +7,15 @@ title: My Skills
 subtitle: null
 active: true
 feature:
-  - description: C++, Python, Java, Ruby, Javascript, Go
-    icon: r-project
+  - description: C, Python, Java, Javascript, Php
+    icon: fa-regular fa-binary
     icon_pack: fab
     name: Programming
-  - description: React.js, Ruby on Rails, Next.js, MySQL, Postgresql, AWS, Bash, Git, Docker
-    icon: chart-line
+  - description: React.js, Next.js, MySQL, Bash, Git 
+    icon: fa-regular fa-microchip
     icon_pack: fas
     name: Technologies
-  - description: Greek, Georgian, English, German, Russian
+  - description: Bengali, English
     icon: fa-regular fa-language
     icon_pack: fas
     name: Languages
