@@ -33,4 +33,6 @@ title: Accomplish&shy;ments
 subtitle: null
 design:
   columns: "1"
+  background:
+    color: "#ea0000"
 ---
