@@ -35,4 +35,6 @@ design:
   columns: "1"
   background:
     color: "#ea0000"
+    text_color_light: true
+    image_darken: 0
 ---
