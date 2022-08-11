@@ -9,6 +9,6 @@ title: Hey, I’m Masum Akando!
 subtitle: A little more about me.
 design:
   background:
-    color: "#f2faff"
-    text_color_light: true
+    color: "#ffffff"
+    text_color_light: false
 ---
