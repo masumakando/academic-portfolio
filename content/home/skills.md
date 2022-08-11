@@ -13,7 +13,7 @@ feature:
     icon_pack: fas
     name: Technologies
   - description: C, Python, Java, Javascript, Php
-    icon: fa-regular fa-brackets-curly
+    icon: fa-solid fa-code
     icon_pack: fas
     name: Programming
   - description: Bengali, English
