@@ -8,11 +8,11 @@ subtitle: null
 active: true
 feature:
   - description: C, Python, Java, Javascript, Php
-    icon: fa-regular fa-microchip
+    icon: fa-regular fa-brackets-curly
     icon_pack: fas
     name: Programming
   - description: React.js, Next.js, MySQL, Bash, Git 
-    icon: fa-regular fa-binary
+    icon: fa-regular fa-microchip
     icon_pack: fas
     name: Technologies
   - description: Bengali, English
