@@ -34,7 +34,7 @@ subtitle: null
 design:
   columns: "1"
   background:
-    color: "#ea0000"
+    color: "#253bff"
     text_color_light: true
     image_darken: 0
 ---
