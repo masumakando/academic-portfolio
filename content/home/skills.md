@@ -10,14 +10,16 @@ feature:
   - description: 90%
     icon: r-project
     icon_pack: fab
-    name: Programming Languages
-  - description: C++, Python, Java, Ruby, Javascript, Go
+    name: R
+  - description: 100%
     icon: chart-line
     icon_pack: fas
-    name: Technologies
-  - description: React.js, Ruby on Rails, Next.js, MySQL, Postgresql, AWS, Bash, Git, Docker
+    name: Statistics
+  - description: 10%
     icon: camera-retro
     icon_pack: fas
-    name: Languages
-    description: Greek, Georgian, English, German, Russian
-  columns: "1"
+    name: Photography
+design:
+  columns: "2"
+---
+vbbbbbbbbbbbbbbbbbbbbbbb hfffffffffffffffffffffffffffff
