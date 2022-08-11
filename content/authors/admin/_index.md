@@ -2,7 +2,7 @@
 title: Masum Akando
 role: Dreamer | Entrepreneur | Software Engineer | TEDx speaker
 avatar_filename: avatar.jpg.jpg
-bio: ""
+bio: Lorem ipsum dolor sit ame
 interests:
   - Artificial Intelligence
   - Computational Linguistics
