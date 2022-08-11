@@ -11,4 +11,5 @@ design:
   background:
     color: "#f5f1f1"
     text_color_light: false
+  columns: "2"
 ---
