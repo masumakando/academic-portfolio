@@ -10,5 +10,5 @@ subtitle: A little more about me.
 design:
   background:
     color: "#f2faff"
-    text_color_light: false
+    text_color_light: true
 ---
