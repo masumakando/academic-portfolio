@@ -7,19 +7,18 @@ title: My Skills
 subtitle: null
 active: true
 feature:
-  - description: 90%
+  - description: C++, Python, Java, Ruby, Javascript, Go
     icon: r-project
     icon_pack: fab
-    name: R
-  - description: 100%
+    name: Programming
+  - description: React.js, Ruby on Rails, Next.js, MySQL, Postgresql, AWS, Bash, Git, Docker
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
+    name: Technologies
+  - description: Greek, Georgian, English, German, Russian
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: Languages
 design:
   columns: "2"
 ---
-vbbbbbbbbbbbbbbbbbbbbbbb hfffffffffffffffffffffffffffff
