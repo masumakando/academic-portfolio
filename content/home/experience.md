@@ -1,45 +1,50 @@
 ---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: Experience
+subtitle:
+
+# Date format for experience
+#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
+
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: CEO
     company: GenCoin
-<<<<<<< HEAD
     company_url: ''
-    company_logo: anun
-=======
-    company_url: ""
     company_logo: org-gc
->>>>>>> 9449d906c7b6d5abbf4fe6e9d0462d24da596100
     location: California
-    date_start: 2021-01-01
-    date_end: ""
-    description: |-2
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
         Responsibilities include:
         
         * Analysing
         * Modelling
         * Deploying
-<<<<<<< HEAD
 
   - title: Student Associate
     company: Daffodil International University
     company_url: ''
-=======
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ""
->>>>>>> 9449d906c7b6d5abbf4fe6e9d0462d24da596100
     company_logo: org-x
     location: California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
-widget_id: My journey
-headless: true
-weight: 40
-title: My journey
-subtitle: null
+
 design:
-  columns: "2"
+  columns: '2'
 ---
