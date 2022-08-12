@@ -20,7 +20,7 @@ social:
     icon_pack: fab
     link: https://github.com/masumakando
     display:
-      header: true
+      header: false
   - icon: linkedin
     icon_pack: fab
     link: https://bd.linkedin.com/in/masumakando
@@ -32,7 +32,7 @@ social:
     icon: facebook
     link: https://www.facebook.com/masumorfae.shanto
   - display:
-      header: true
+      header: false
     link: https://www.instagram.com/masum_akando_/
     icon_pack: fab
     icon: instagram
