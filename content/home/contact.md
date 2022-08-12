@@ -25,5 +25,5 @@ content:
       name: DM Me
       link: https://twitter.com/masum_akando
 design:
-  columns: "1"
+  columns: "2"
 ---
