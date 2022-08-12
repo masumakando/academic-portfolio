@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: org-gc
+    company_logo: anun
     location: California
     date_start: '2021-01-01'
     date_end: ''
@@ -36,8 +36,8 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Student Associate
+    company: Daffodil International University
     company_url: ''
     company_logo: org-x
     location: California
