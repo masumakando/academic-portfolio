@@ -36,11 +36,11 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Student Associate
+  - title: Student Associate, Innovation Lab
     company: Daffodil International University
-    company_url: ''
+    company_url: 'http://innolab.daffodilvarsity.edu.bd/'
     company_logo: org-x
-    location: California
+    location: Dhaka, Bangladesh
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
