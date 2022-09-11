@@ -10,12 +10,12 @@ item:
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ""
-  - certificate_url: https://www.edx.org
+  - 
     date_end: ""
     date_start: 2021-01-01
     description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
+    
+    
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
